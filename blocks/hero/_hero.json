@@ -21,7 +21,7 @@
       "id": "hero",
       "fields": [
         {
-          "component": "reference",
+          "component": "file-input",
           "valueType": "string",
           "name": "image",
           "label": "Image",
